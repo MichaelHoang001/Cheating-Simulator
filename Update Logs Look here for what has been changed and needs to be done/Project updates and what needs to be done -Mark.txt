@@ -1,0 +1,40 @@
+11.9.2016
+
++ changed the controls for cheating and switching the questions,
+  now its mapped to dpad, left and right dpad is for switching questions 
+  and holding up dpad is for cheating, makes it easier to play since you
+  are only using your thumbs and its closer together so no likely to mess up hopefull.
+
++ Added a if clause so you can only answer again once you release the one of the buttons,
+  this might just be a problem with the controller I have (the A button is a bit wonky).
+
++ changed the time interval for the other players test to switch every 3 seconds instead of 5.
+  Is it too fast?
+
++ Added a mini-tutorial to tell player the controls
+
++ tutorial ends leads straight into the game, appears only in the editor the lights are dim, you can fix this in the editor
+  but when you actually build an .exe file and play it nothing is wrong.
+
+- Can add a ready button before starting straight into the real game.
+
+
+
+
+
+11.7.2016
++fixed test texture problem, also changed the texture to a exam sheet texture
+
++Made it so you cannot see the answers on anyones tests without holding the cheating button.
+
++The answers on the other students test will only show the answers for the questions you need.
+
++Fixed the problem with player character model standing up.
+
+-Need to fix controlls so you dont answer two questions on accident.
+
+-Change the amount of time the answers on other students test change?
+
+-need to add  in a main menu that tells the player how to play, and get their name etc?
+
+-plan a new route for teacher so it looks more natural?
