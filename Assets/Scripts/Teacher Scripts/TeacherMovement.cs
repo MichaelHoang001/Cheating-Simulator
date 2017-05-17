@@ -79,7 +79,7 @@ public class TeacherMovement : MonoBehaviour {
             //eraser attention decay regardless of actions taken
             if (EraserAttention > 0) {
                 EraserAttention -= 1;
-            } else (EraserAttention < 0){
+            } else if (EraserAttention < 0){
                 EraserAttention = 0;
             }
         }
